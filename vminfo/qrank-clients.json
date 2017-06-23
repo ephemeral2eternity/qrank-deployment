@@ -1,0 +1,140 @@
+[
+    {
+        "ip": "13.92.188.228",
+        "location": "eastus",
+        "name": "client-01",
+        "type": "Microsoft.Compute/virtualMachines"
+    },
+    {
+        "ip": "52.177.194.168",
+        "location": "eastus2",
+        "name": "client-02",
+        "type": "Microsoft.Compute/virtualMachines"
+    },
+    {
+        "ip": "104.45.227.31",
+        "location": "westus",
+        "name": "client-06",
+        "type": "Microsoft.Compute/virtualMachines"
+    },
+    {
+        "ip": "52.173.130.166",
+        "location": "centralus",
+        "name": "client-03",
+        "type": "Microsoft.Compute/virtualMachines"
+    },
+    {
+        "ip": "52.237.157.60",
+        "location": "northcentralus",
+        "name": "client-04",
+        "type": "Microsoft.Compute/virtualMachines"
+    },
+    {
+        "ip": "13.66.56.235",
+        "location": "southcentralus",
+        "name": "client-05",
+        "type": "Microsoft.Compute/virtualMachines"
+    },
+    {
+        "ip": "13.79.156.201",
+        "location": "northeurope",
+        "name": "client-12",
+        "type": "Microsoft.Compute/virtualMachines"
+    },
+    {
+        "ip": "13.93.89.166",
+        "location": "westeurope",
+        "name": "client-13",
+        "type": "Microsoft.Compute/virtualMachines"
+    },
+    {
+        "ip": "13.75.120.247",
+        "location": "eastasia",
+        "name": "client-16",
+        "type": "Microsoft.Compute/virtualMachines"
+    },
+    {
+        "ip": "13.67.115.168",
+        "location": "southeastasia",
+        "name": "client-17",
+        "type": "Microsoft.Compute/virtualMachines"
+    },
+    {
+        "ip": "13.73.25.25",
+        "location": "japaneast",
+        "name": "client-18",
+        "type": "Microsoft.Compute/virtualMachines"
+    },
+    {
+        "ip": "104.215.59.72",
+        "location": "japanwest",
+        "name": "client-19",
+        "type": "Microsoft.Compute/virtualMachines"
+    },
+    {
+        "ip": "40.126.249.244",
+        "location": "australiaeast",
+        "name": "client-22",
+        "type": "Microsoft.Compute/virtualMachines"
+    },
+    {
+        "ip": "52.255.51.82",
+        "location": "australiasoutheast",
+        "name": "client-23",
+        "type": "Microsoft.Compute/virtualMachines"
+    },
+    {
+        "ip": "191.232.166.28",
+        "location": "brazilsouth",
+        "name": "client-09",
+        "type": "Microsoft.Compute/virtualMachines"
+    },
+    {
+        "ip": "52.237.35.188",
+        "location": "CanadaCentral",
+        "name": "client-11",
+        "type": "Microsoft.Compute/virtualMachines"
+    },
+    {
+        "ip": "52.242.21.76",
+        "location": "CanadaEast",
+        "name": "client-10",
+        "type": "Microsoft.Compute/virtualMachines"
+    },
+    {
+        "ip": "52.191.138.170",
+        "location": "westus2",
+        "name": "client-07",
+        "type": "Microsoft.Compute/virtualMachines"
+    },
+    {
+        "ip": "52.161.103.87",
+        "location": "westcentralus",
+        "name": "client-08",
+        "type": "Microsoft.Compute/virtualMachines"
+    },
+    {
+        "ip": "51.140.62.191",
+        "location": "uksouth",
+        "name": "client-14",
+        "type": "Microsoft.Compute/virtualMachines"
+    },
+    {
+        "ip": "51.141.39.103",
+        "location": "ukwest",
+        "name": "client-15",
+        "type": "Microsoft.Compute/virtualMachines"
+    },
+    {
+        "ip": "52.231.27.16",
+        "location": "KoreaCentral",
+        "name": "client-20",
+        "type": "Microsoft.Compute/virtualMachines"
+    },
+    {
+        "ip": "52.231.207.55",
+        "location": "KoreaSouth",
+        "name": "client-21",
+        "type": "Microsoft.Compute/virtualMachines"
+    }
+]

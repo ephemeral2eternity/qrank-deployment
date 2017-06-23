@@ -1,0 +1,140 @@
+[
+    {
+        "ip": "52.170.215.39",
+        "location": "eastus",
+        "name": "agent-08",
+        "type": "Microsoft.Compute/virtualMachines"
+    },
+    {
+        "ip": "52.177.173.186",
+        "location": "eastus2",
+        "name": "agent-09",
+        "type": "Microsoft.Compute/virtualMachines"
+    },
+    {
+        "ip": "13.91.95.233",
+        "location": "westus",
+        "name": "agent-22",
+        "type": "Microsoft.Compute/virtualMachines"
+    },
+    {
+        "ip": "52.165.232.189",
+        "location": "centralus",
+        "name": "agent-06",
+        "type": "Microsoft.Compute/virtualMachines"
+    },
+    {
+        "ip": "52.237.153.157",
+        "location": "northcentralus",
+        "name": "agent-14",
+        "type": "Microsoft.Compute/virtualMachines"
+    },
+    {
+        "ip": "13.84.43.90",
+        "location": "southcentralus",
+        "name": "agent-16",
+        "type": "Microsoft.Compute/virtualMachines"
+    },
+    {
+        "ip": "52.169.184.132",
+        "location": "northeurope",
+        "name": "agent-15",
+        "type": "Microsoft.Compute/virtualMachines"
+    },
+    {
+        "ip": "52.166.19.34",
+        "location": "westeurope",
+        "name": "agent-21",
+        "type": "Microsoft.Compute/virtualMachines"
+    },
+    {
+        "ip": "13.75.110.93",
+        "location": "eastasia",
+        "name": "agent-07",
+        "type": "Microsoft.Compute/virtualMachines"
+    },
+    {
+        "ip": "52.163.243.111",
+        "location": "southeastasia",
+        "name": "agent-17",
+        "type": "Microsoft.Compute/virtualMachines"
+    },
+    {
+        "ip": "13.73.30.45",
+        "location": "japaneast",
+        "name": "agent-10",
+        "type": "Microsoft.Compute/virtualMachines"
+    },
+    {
+        "ip": "104.215.59.195",
+        "location": "japanwest",
+        "name": "agent-11",
+        "type": "Microsoft.Compute/virtualMachines"
+    },
+    {
+        "ip": "52.237.208.59",
+        "location": "australiaeast",
+        "name": "agent-01",
+        "type": "Microsoft.Compute/virtualMachines"
+    },
+    {
+        "ip": "52.255.51.106",
+        "location": "australiasoutheast",
+        "name": "agent-02",
+        "type": "Microsoft.Compute/virtualMachines"
+    },
+    {
+        "ip": "191.232.183.219",
+        "location": "brazilsouth",
+        "name": "agent-03",
+        "type": "Microsoft.Compute/virtualMachines"
+    },
+    {
+        "ip": "52.237.34.9",
+        "location": "CanadaCentral",
+        "name": "agent-04",
+        "type": "Microsoft.Compute/virtualMachines"
+    },
+    {
+        "ip": "52.242.23.106",
+        "location": "CanadaEast",
+        "name": "agent-05",
+        "type": "Microsoft.Compute/virtualMachines"
+    },
+    {
+        "ip": "52.183.126.142",
+        "location": "westus2",
+        "name": "agent-23",
+        "type": "Microsoft.Compute/virtualMachines"
+    },
+    {
+        "ip": "52.161.21.162",
+        "location": "westcentralus",
+        "name": "agent-20",
+        "type": "Microsoft.Compute/virtualMachines"
+    },
+    {
+        "ip": "51.140.73.19",
+        "location": "uksouth",
+        "name": "agent-18",
+        "type": "Microsoft.Compute/virtualMachines"
+    },
+    {
+        "ip": "51.141.53.153",
+        "location": "ukwest",
+        "name": "agent-19",
+        "type": "Microsoft.Compute/virtualMachines"
+    },
+    {
+        "ip": "52.231.34.181",
+        "location": "KoreaCentral",
+        "name": "agent-12",
+        "type": "Microsoft.Compute/virtualMachines"
+    },
+    {
+        "ip": "52.231.203.46",
+        "location": "KoreaSouth",
+        "name": "agent-13",
+        "type": "Microsoft.Compute/virtualMachines"
+    }
+]
