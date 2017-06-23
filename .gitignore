@@ -35,6 +35,13 @@
 # mpeltonen/sbt-idea plugin
 .idea_modules/
 
+## all idea
+.idea
+
+## Python cache
+__pycache__
+
+
 # JIRA plugin
 atlassian-ide-plugin.xml
 
